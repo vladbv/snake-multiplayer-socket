@@ -1,6 +1,6 @@
-===============
 
-<h3>Play Snake with you friends</h3>
+<h3>An amazing project that helps you progress in JS tremendously </h3>
+<h3>Snake multiplayer</h3>
 
 <h2>How to setup this project in a local server?</h2>
 
